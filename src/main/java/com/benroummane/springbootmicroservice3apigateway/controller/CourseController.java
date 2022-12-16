@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @RestController
-@RequestMapping("gateway/course")//pre-path
+@RequestMapping("gateway/course")///pre-path
 public class CourseController
 {
     @Autowired
